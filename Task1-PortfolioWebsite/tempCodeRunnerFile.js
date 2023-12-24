@@ -1,1 +1,1 @@
-    Strings:["Frontend Developer" , "Backend Developer" , "Web Developer"],
+    Strings:["Full stack Developer" , "Java Developer"],
